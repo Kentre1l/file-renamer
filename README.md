@@ -1,0 +1,3 @@
+I was tasked with renaming several files but I quickly realised that manualy locating and renaming each file would be tiresome so I opted to create a program to automate the process.
+This is a Python-based file renaming tool with a user-friendly Graphical User Interface (GUI) built using tkinter. It allows users to search for files by name (or part of it) within a folder and rename them efficiently. The program features a dark mode UI for better readability and aesthetics.
+Also featured is a browsing feature to locate folders instead of having to input the folder path and a preview of the new file names before actualy renaming the to prevent unintended renames. 
